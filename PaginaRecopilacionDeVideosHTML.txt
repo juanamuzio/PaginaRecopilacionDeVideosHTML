@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>¡Comienza a vender en Mercado Libre!</h1>
+    <p>
+¿Querés comenzar tu propio negocio online y no sabés por dónde empezar? En nuestra página te guiamos paso a paso para que puedas abrir tu cuenta, publicar productos, optimizar tus ventas y aprovechar al máximo todas las herramientas que ofrece Mercado Libre. Ya seas emprendedor, comerciante o simplemente quieras generar ingresos extra, estamos acá para ayudarte a crecer.</p>
+
+<section>
+    <h2>Abre tu cuenta</h2>
+    <p>
+El primer paso para comenzar a vender en Mercado Libre es crear tu cuenta. Es rápido, gratuito y te da acceso a millones de potenciales compradores. ¡Empezá hoy mismo!</p>
+
+<iframe 
+  title="video explicativo para abrir una cuenta"
+  width="640" 
+  height="200" 
+  src="https://www.youtube.com/embed/eA_i1Q3IBqw" 
+  allowfullscreen>
+</iframe>
+
+</section>
+
+<section>
+    <h2>Crea publicaciones y comienza a vender</h2>
+    <p>Subí tus productos con buenas fotos, descripciones claras y ¡empezá a recibir compradores en minutos!</p>
+    <iframe
+     title="video explicativo de como crear publicaciones"
+     width="640"
+     height="200"
+     src="https://www.youtube.com/embed/mro3aorcwU4"
+     allowfullscreen>
+    </iframe>
+</section>
+
+<section>
+    <h2>Despacha tus pedidos correctamente</h2>
+    <p>Conocé los pasos para preparar, embalar y enviar tus productos de forma segura y rápida, asegurando una buena experiencia para tus compradores.</p>
+    <iframe
+    title="video explicativo de como enviar tus pedidos"
+    width="640"
+    height="200"
+    src="https://www.youtube.com/embed/UrrewXaiXJ8"
+    allowfullscreen>
+    </iframe>
+</section>
+</main>
+</body>
+
+</html>
